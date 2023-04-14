@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsChallanges</string>
+    <string name="Title">Contacts  App</string>
+    <string name="btntext">CREATE NEW CONTACT</string>
+    <string name="nam">please enter you name</string>
+    <string name="num">please enter your number</string>
+    <string name="web">please enter your website</string>
+    <string name="loc">please enter location</string>
+
+
+</resources>
